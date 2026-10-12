@@ -1,4 +1,5 @@
-# Hi there 👋 I'm András (galandras12)
+# Hi there 👋 I'm András (galandras12) 
+András? This is a Hungarian version of the name Andrew.
 
 Hobby programmer learning and practicing coding. Since 2026, I've been designing programs alongside AI assistants and exploring more complex codebases.
 
