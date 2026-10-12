@@ -1,20 +1,12 @@
 # Hi there 👋 I'm András (galandras12) 
-András? This is a Hungarian version of the name Andrew.
 
 Hobby programmer learning and practicing coding. Since 2026, I've been designing programs alongside AI assistants and exploring more complex codebases.
 
-Why And? galANDras12 <- The answer is right before your eyes.
+## QnA
 
-## 🚀 What I'm working on with AI
+What does your name András mean? This is a Hungarian version of the name Andrew.
+Why And? galANDras12 <- The answer is right before your eyes. The first three letters of my first name. Of course, in that case, Gal is my surname.
 
-- 🔒 **[Wordpress_mesterjelszo](https://github.com/galandras12/Wordpress_mesterjelszo)** — a WordPress plugin that locks an entire site behind a single admin-set password, with brute-force protection
-- 📊 **[mezobereny-status](https://github.com/galandras12/mezobereny-status)** — a status page for the Mezőberény website
-- 🛠️ **[wp_fixer](https://github.com/galandras12/wp_fixer)** — WordPress maintenance tooling
-- 🧩 **[WordPress_mbhu-template](https://github.com/galandras12/WordPress_mbhu-template)** — a WordPress site template
-
-## What I'm working on without AI
-- **[Discord NODEJS Bot](https://github.com/galandras12/Andrew-Discord_BOT)** - Discord BOT templte (the main project is private)
-- Any else private project...
 
 ## 🛠️ Tech & interests
 
