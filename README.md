@@ -2,6 +2,8 @@
 
 Hobby programmer learning and practicing coding. Since 2026, I've been designing programs alongside AI assistants and exploring more complex codebases.
 
+Why And? galANDras12 <- The answer is right before your eyes.
+
 ## 🚀 What I'm working on with AI
 
 - 🔒 **[Wordpress_mesterjelszo](https://github.com/galandras12/Wordpress_mesterjelszo)** — a WordPress plugin that locks an entire site behind a single admin-set password, with brute-force protection
